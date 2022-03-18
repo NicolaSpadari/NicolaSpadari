@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm Nicola 👋
 
-<!--
-**NicolaSpadari/NicolaSpadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Frontend Web Developer working in Italy.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ My website [nicolaspadari.dev](https://nicolaspadari.dev)
+
+##### BIO
+
+- 🏢 I'm currently working at: **[Suggesto](https://suggesto.it)**
+- ⚙️ I use daily: `.html`, `.css`, `.scss`, `.vue`, `.js`, `.ts`, `.ftl`, `.svg`, `.psd`
+- 🌍 I'm mostly active within: the **Vue Community**
+- 💅 I like to: experiment with cutting edge technologies
+- 💬 Ping me about: **Vite**, **Vue**, **development**, **design**
