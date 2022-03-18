@@ -1,15 +1,15 @@
-### Hello, I'm Nicola 👋
+## Hello, I'm Nicola 👋🏻 [<img src="https://svgshare.com/i/ad5.svg" alt="Developer image" width="90" height="90" align="right">](https://www.alessiolibardi.dev) 
 
-#### I'm a Frontend Web Developer working in Italy.
+#### I'm a Frontend Web Developer, working in Italy.
 
 ##### NOW
 
-- ✨ My website [nicolaspadari.dev](https://nicolaspadari.dev)
+- 🏢 I'm currently working at: **[Suggesto](https://suggesto.it)**
+- ✨ My website: **[nicolaspadari.dev](https://nicolaspadari.dev)**
 
 ##### BIO
 
-- 🏢 I'm currently working at: **[Suggesto](https://suggesto.it)**
-- ⚙️ I use daily: `.html`, `.css`, `.scss`, `.vue`, `.js`, `.ts`, `.ftl`, `.svg`, `.psd`
-- 🌍 I'm mostly active within: the **Vue Community**
+- ⚙️ What I use daily: `.html`, `.css`, `.scss`, `.vue`, `.js`, `.ts`, `.ftl`, `.svg`, `.psd`
+- 🌍 Technologies I love to play with: **Vite**, **Vue**
 - 💅 I like to: experiment with cutting edge technologies
-- 💬 Ping me about: **Vite**, **Vue**, **development**, **design**
+- 💬 Ping me about: **latest technolgies**, **design**
