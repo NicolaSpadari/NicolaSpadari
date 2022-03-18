@@ -12,4 +12,4 @@
 - ⚙️ What I use daily: `.html`, `.css`, `.scss`, `.vue`, `.js`, `.ts`, `.ftl`, `.svg`, `.psd`
 - 🌍 Technologies I love to play with: **Vite**, **Vue**
 - 💅 I like to: experiment with cutting edge technologies
-- 💬 Ping me about: **latest technolgies**, **design**
+- 💬 Ping me about: **latest technologies**, **design**
