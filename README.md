@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at: **[Suggesto](https://suggesto.it)**
 - ✨ My website: **[nicolaspadari.dev](https://nicolaspadari.dev)**
-- 📄 My CV: **[download here](https://github.com/NicolaSpadari/NicolaSpadari/raw/main/cv-nicola_spadari.pdf)**
+- 📄 My LinkedIn profile: **[linkedin.com/in/nicolaspadari](https://www.linkedin.com/in/nicolaspadari)**
 
 ##### BIO
 
