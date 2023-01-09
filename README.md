@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🏢 I'm currently working at: **[Suggesto](https://suggesto.it)**
+- 🏢 I'm currently working at: **[Bitbull](https://bitbull.it)**
 - ✨ My website: **[nicolaspadari.dev](https://nicolaspadari.dev)**
 - 📄 My LinkedIn profile: **[linkedin.com/in/nicolaspadari](https://www.linkedin.com/in/nicolaspadari)**
 
@@ -12,5 +12,4 @@
 
 - ⚙️ What I use daily: `.html`, `.css`, `.vue`, `.js`, `.ts`, `.ftl`, `.psd`
 - 🌍 Technologies I love to play with: **Vite**, **Vue**, **Nuxt**
-- 💅 I like to: experiment with cutting edge technologies
-- 💬 Ping me about: **ux**, **dev conferences**, **open source projects**
+- 💬 I like to: experiment with cutting edge technologies
