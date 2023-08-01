@@ -10,6 +10,6 @@
 
 ##### BIO
 
-- ⚙️ What I use daily: `.html`, `.css`, `.vue`, `.js`, `.ts`, `.ftl`, `.psd`
+- ⚙️ What I use daily: `.html`, `.css`, `.vue`, `.js`, `.ts`, `.psd`
 - 🌍 Technologies I love to play with: **Vite**, **Vue**, **Nuxt**
 - 💬 I like to: experiment with cutting edge technologies
