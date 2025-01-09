@@ -1,4 +1,4 @@
-## Hello, I'm Nicola 👋🏻 [<img src="https://svgshare.com/i/iRL.svg" alt="Web developer" width="90" height="90" align="right">](https://nicolaspadari.dev) 
+## Hello, I'm Nicola 👋🏻
 
 #### I'm a Web Developer, working in Italy.
 
